@@ -4,7 +4,6 @@
   "language": "en-US",
   "repository": [
     "BritishAirwaysRepo",
-    "CSV-to-postgreSQL-ETL-Pipeline",
-    "LeetCode"
+    "CSV-to-postgreSQL-ETL-Pipeline"
   ]
 }
