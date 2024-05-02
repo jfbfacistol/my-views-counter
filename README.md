@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/4/28 9:36 PM UTC
+			2024/4/30 9:36 PM UTC
 		</td>
 		<td>
-			2
+			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jfbfacistol/my-views-counter/raw/master/graph/777208957/small/year.png" height="20"> 6
+			<img alt="Response time graph" src="https://github.com/jfbfacistol/my-views-counter/raw/master/graph/777208957/small/year.png" height="20"> 9
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/4/28 9:36 PM UTC
+			2024/4/30 9:36 PM UTC
 		</td>
 		<td>
 			1
@@ -51,25 +51,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/jfbfacistol/my-views-counter/raw/master/graph/794605585/small/year.png" height="20"> 83
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/jfbfacistol/my-views-counter/tree/master/readme/756940122/year.md">
-				LeetCode
-			</a>
-		</td>
-		<td>
-			2024/4/28 9:36 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/jfbfacistol/my-views-counter/raw/master/graph/756940122/small/year.png" height="20"> 0
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2024/5/1 9:37 PM UTC</i></small>
+<small><i>Last updated on 2024/5/2 1:02 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
